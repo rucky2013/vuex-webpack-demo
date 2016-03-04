@@ -1,0 +1,21 @@
+{
+  "code": 0,
+  "data": {
+    "user_role": 1,  
+    "is_signup":1,    
+    "user_ID":1000, 
+    "guild_ID":3000, 
+    "guild_name":"青龙帮", 
+    "guild_popularity_value":{ 
+      "today":100, 
+      "total":1200  
+    },
+    "guild_activity_value":{ 
+      "today":600, 
+      "total":2000 
+    },
+    "create_time":1456635024,
+    "signup_time":1456388884
+  },
+  "msg": "OK"
+}

@@ -1,0 +1,78 @@
+@image-url : '../../src/img/'; //img path
+/* @import url('../../lib/framework7/less/_mixins.less');
+@import url('../../lib/framework7/less/_colors-vars.less'); */
+@import url('../../lib/framework7/less/framework.less');
+
+html, body{
+    font-family: Roboto, Noto, Helvetica, 'Microsoft YaHei', Arial, sans-serif;
+    font-size: @size-T2;
+    line-height: 1.4;
+    color: @color-Ca4;
+    font-weight: 300;
+}
+
+html, body, div, p, ul, ol, li, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+    font-family: "Microsoft YaHei";
+}
+
+body{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+a{
+    color: inherit;
+}
+
+li {
+    list-style: none;
+}
+
+img {
+    vertical-align: top;
+}
+
+.pages {
+    background-color: #fff;
+}
+
+.page-content{
+    position: static;
+    span,em{
+        font-style: normal;
+    }
+    
+}
+
+//ÎÞjavascript»·¾³
+.no-js-tips{
+    display: block;
+    padding: 0 1rem;
+    text-align: center;
+    font-size: @size-T4;
+    color: @color-Ca3;
+    margin-top: 88px;
+}
+
+/* mixin */
+
+
+.list-block {
+    margin: 0;
+}
+
+.box-sizing(@box-sizing: border-box) {
+    box-sizing: @box-sizing;
+    -moz-box-sizing: @box-sizing; /* Firefox */
+    -webkit-box-sizing: @box-sizing; /* Safari */
+}
+
+/* mixin end */
+
+
+
+
+
+

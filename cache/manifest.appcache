@@ -1,0 +1,30 @@
+CACHE MANIFEST
+        # 2016-02-18:v2.27
+        NETWORK:
+        *
+
+        CACHE:
+        http://app.52tt.com/favicon.ico
+        ../dist/css/style.min.css
+        ../dist/webpack/css/style.css
+        ../dist/webpack/js/build.js
+        ../dist/js/framework.min.js
+
+        ../dist/img/error-tip.png
+        ../dist/img/loader-in-white.png
+        ../dist/img/loader-out-white.png
+        ../dist/img/icon-reload.png
+        ../dist/img/grule_02.png
+        ../dist/img/grule_03.png
+        ../dist/img/grule_04.png
+        ../dist/img/grule_05.png
+        ../dist/img/grule_06.png
+        ../dist/img/grule_07.png
+        ../dist/img/grule_07.png
+        ../dist/img/gsuc_joins.png
+
+        http://cdn.52tt.com/guild_package/topic/game_compond_offer_share_giftbg.png
+       
+
+
+
